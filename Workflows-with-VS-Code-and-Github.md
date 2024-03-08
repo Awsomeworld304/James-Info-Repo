@@ -73,6 +73,7 @@ From here you can press the ```Confirm merge``` button to finalize the merge.\
 You can delete the branch, which in most cases is preferred as seen in [Feature branching](#branching-strategy).
 #### VS Code
 This is easier than on the website.
+First start with viewing your changes in the ```Source Control``` tab. (Ctrl + Shift + G)
 wip
 ## VS Code + Extensions
 wip
