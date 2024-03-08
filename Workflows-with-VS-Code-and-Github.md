@@ -34,6 +34,7 @@ Rebase* - Change the base of your commit to another.\
   - Don't: Auto merge the pull request without any review especially if it's a big modification.
 - Do: Stage and commit your changes.
   - Don't: Send the commit with a stupid message. Make it concise and quick.
+  - Don't Upload the code through the website.
   - [Commit Messages](#commit-messages)
 - Do: Write clean neat code.
   - Don't: Write messy or obfuscated code that is hard to read and understand.
@@ -55,11 +56,23 @@ This makes it easier to review code for merging and prevents unintentional messe
 This will discuss how to do various actions on GitHub.
 ### Making Pull Requests
 This depends on your method.\
-You cannot do it from the terminal.
+You cannot do it from the terminal as it is a GitHub feature, not one from git itself.
+I do not recommend doing this through the desktop app.
 #### Website
 Start from your repo, and click the 'Pull Requests' tab at the top.\
 (img)\
+Press ```New pull request```.\
+(img)\
+In the ```compare:``` tab, select your branch that you want to merge.\
+(img)\
+Review your code to make sure that it's good, and that the title is concise along with the description.\
+Once you're ready, press ```Create pull request```.
+If you need to require approval, then invite a reviewer to look at it and approve it.\
+If everything looks good then press the ```Merge pull request``` button.\
+From here you can press the ```Confirm merge``` button to finalize the merge.\
+You can delete the branch, which in most cases is preferred as seen in [Feature branching](#branching-strategy).
 #### VS Code
+This is easier than on the website.
 wip
 ## VS Code + Extensions
 wip
