@@ -10,6 +10,7 @@
     - [Making Pull Requests](#making-pull-requests)
       - [Website](#website)
       - [VS Code](#vs-code)
+  - [VS Code + Extensions](#vs-code--extensions)
   - [Misc.](#misc)
     - [Commit Messages](#commit-messages)
 ## Git
@@ -53,11 +54,15 @@ This makes it easier to review code for merging and prevents unintentional messe
 ## GitHub
 This will discuss how to do various actions on GitHub.
 ### Making Pull Requests
+This depends on your method.\
+You cannot do it from the terminal.
 #### Website
 Start from your repo, and click the 'Pull Requests' tab at the top.\
 (img)\
-
 #### VS Code
+wip
+## VS Code + Extensions
+wip
 ## Misc.
 Misc. info or more in-detail explanations.
 ### Commit Messages
