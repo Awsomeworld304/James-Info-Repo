@@ -27,7 +27,7 @@ Pull - Pull modified code from origin branch.\
 Sync - Sync the origin and local branch.\
 Checkout* - Switch to a different branch.\
 Rebase* - Change the base of your commit to another.\
-*You normally won't have to use this, but if you do, get confirmation from another to prevent human error!
+*You normally won't have to use this, but if you do, get confirmation from another to prevent human error if you're unsure!
 ### Best Practices
 #### Dos and Don'ts
 - Do: Make a pull request when ready to merge.
